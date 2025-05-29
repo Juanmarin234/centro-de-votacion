@@ -1,4 +1,4 @@
-## 📦 Requisitos
+##  Requisitos
 
 
 
@@ -14,7 +14,7 @@ pip install pandas matplotlib
 
 
 
-## ▶️ Cómo ejecutar
+##  Cómo ejecutar
 
 
 
@@ -34,7 +34,7 @@ Python simulador_electoral_modificado.py
 
 
 
-## 🗃️ Archivos planos requeridos
+##  Archivos planos requeridos
 
 
 
@@ -42,7 +42,7 @@ Python simulador_electoral_modificado.py
 
 ### resultados.json
 
-## 🧠 Funcionalidades principales
+##  Funcionalidades principales
 
 
 
